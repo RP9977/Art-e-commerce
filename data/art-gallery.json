@@ -1,0 +1,46 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "title": "Starry Night",
+            "description": "A famous painting by Vincent van Gogh.",
+            "price": 1000,
+            "image": "https://example.com/images/starry-night.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Mona Lisa",
+            "description": "Leonardo da Vinci's iconic masterpiece.",
+            "price": 2000,
+            "image": "https://example.com/images/mona-lisa.jpg"
+        },
+        {
+            "id": 3,
+            "title": "The Persistence of Memory",
+            "description": "A surreal painting by Salvador Dalí.",
+            "price": 1500,
+            "image": "https://example.com/images/persistence-of-memory.jpg"
+        },
+        {
+            "id": 4,
+            "title": "The Scream",
+            "description": "An expressive piece by Edvard Munch.",
+            "price": 1200,
+            "image": "https://example.com/images/the-scream.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Girl with a Pearl Earring",
+            "description": "A beautiful painting by Johannes Vermeer.",
+            "price": 1300,
+            "image": "https://example.com/images/girl-with-pearl-earring.jpg"
+        },
+        {
+            "id": 6,
+            "title": "The Birth of Venus",
+            "description": "A Renaissance masterpiece by Sandro Botticelli.",
+            "price": 1800,
+            "image": "https://example.com/images/birth-of-venus.jpg"
+        }
+    ]
+}
